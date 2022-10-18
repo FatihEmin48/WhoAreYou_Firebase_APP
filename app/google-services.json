@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681512067463",
+    "project_id": "whoareyou-f9f60",
+    "storage_bucket": "whoareyou-f9f60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681512067463:android:64358b268ce1af3ef63322",
+        "android_client_info": {
+          "package_name": "com.fatiheminkarahan.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681512067463-i9f028siq2e2mn56ahtqkkdmm78uksj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD--twrzvpSRGaRhN5YhJMtdVbUQXa1-iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681512067463-i9f028siq2e2mn56ahtqkkdmm78uksj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
